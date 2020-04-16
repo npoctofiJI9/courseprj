@@ -4,5 +4,5 @@
 ## Cтруктура проекта: 
 
 ### Текстовые документы:
- 
- -[РТЗ] (courseprj/docx_files/RTZ.docx)
+
+ - [РТЗ](courseprj/docx_files/RTZ.docx)
