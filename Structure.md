@@ -5,4 +5,4 @@
 
 ### Текстовые документы:
 
- - [РТЗ](courseprj/docx_files/RTZ.docx)
+ - [РТЗ](courseprj/text_files/RTZ.pdf)
